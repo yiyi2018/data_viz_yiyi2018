@@ -17,3 +17,7 @@ Redesigned visualizations are put in published Tableau worksheets:
 - Graph 6 redesign: https://public.tableau.com/views/Graph6_4/GunOwnershipandGunDeath?:embed=y&:display_count=yes
 - Graph 8 redesign: https://public.tableau.com/views/Graph8new/OverallTrend?:embed=y&:display_count=yes&publish=yes
 - Graph 14 redesign: https://public.tableau.com/views/Graph14/Sheet2?:embed=y&:display_count=yes&publish=yes
+
+## Deceptive version
+
+The deceptive version could be found in a Jupyter notebook called [``Deceptive Version.ipynb``](Deceptive%20Version.ipynb)
