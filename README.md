@@ -18,6 +18,6 @@ Redesigned visualizations are put in published Tableau worksheets:
 - Graph 8 redesign: https://public.tableau.com/views/Graph8new/OverallTrend?:embed=y&:display_count=yes&publish=yes
 - Graph 14 redesign: https://public.tableau.com/views/Graph14/Sheet2?:embed=y&:display_count=yes&publish=yes
 
-## Deceptive version
+## First Version "Deception"
 
 The deceptive version could be found in a Jupyter notebook called [``Deceptive Version.ipynb``](Deceptive%20Version.ipynb)
