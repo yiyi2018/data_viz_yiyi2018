@@ -21,3 +21,7 @@ Redesigned visualizations are put in published Tableau worksheets:
 ## First Version "Deception"
 
 The deceptive version could be found in a Jupyter notebook called [``Deceptive Version.ipynb``](Deceptive%20Version.ipynb)
+
+## Final Version
+
+The final version could be found in a Jupyter notebook called [``Revised Version.ipynb``](Revised%20Version.ipynb)
